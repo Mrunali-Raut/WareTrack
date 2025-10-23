@@ -1,0 +1,17 @@
+# Java / Spring Boot
+*.class
+*.jar
+*.war
+*.iml
+target/
+*.log
+
+# IDE files
+*.idea/
+*.vscode/
+*.project
+*.classpath
+*.settings/
+
+# OS files
+.DS_Store
