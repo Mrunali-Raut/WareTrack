@@ -1,0 +1,18 @@
+# Node/React
+waretrack-frontend/node_modules/
+waretrack-frontend/build/
+waretrack-frontend/dist/
+
+# Java / Spring Boot
+waretrack-backend/target/
+*.class
+*.jar
+*.war
+
+# IDE & system files
+.metadata/
+.vscode/
+.idea/
+*.log
+.DS_Store
+.env
